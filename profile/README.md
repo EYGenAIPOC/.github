@@ -13,4 +13,26 @@ TBD
 
 ## Contributing
 
-TBD
+To add an existing repository (stored locally on the user's system) to this organization, please follow the following steps:
+
+1. Ensure the local repository is follows the following convention:`{AppName}POC-{VersionTag}`
+
+    Example: `StarchatPOC-Master`
+
+2. Try and match the project directory to this folder structure:
+
+```
+{AppName}POC-{VersionTag}
+|_ README.md
+|_ .gitignore
+|_ requirements.txt
+|_ src
+    |_ app_name.py
+    |_ ...
+|_ ...
+```
+
+3. Once all setup, push the latest version of the local repo to your Github account
+4. Navigate to the repository on Github and following these steps:
+
+`Settings > Danger Zone > Transfer ownership > Select one of my organizations > EYGenAIPOC`
