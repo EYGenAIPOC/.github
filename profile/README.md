@@ -33,6 +33,6 @@ To add an existing repository (stored locally on the user's system) to this orga
 ```
 
 3. Once all setup, push the latest version of the local repo to your Github account
-4. Navigate to the repository on Github and following these steps:
+4. Navigate to the repository on Github and follow these steps:
 
 `Settings > Danger Zone > Transfer ownership > Select one of my organizations > EYGenAIPOC`
