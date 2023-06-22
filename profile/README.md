@@ -4,7 +4,7 @@ Welcome to the EY Generative AI POCs Repository! This GitHub organization is ded
 
 ## Table of Contents
 
-- [Organization Structure](#organization-structure)
+- [Sourcing](#sourcing)
 - [Contributing](#contributing)
 
 ## Sourcing
